@@ -56,7 +56,9 @@ sudo reboot now
 
 # Data Toplama, Log Dosyaları Oluşturma ve Log Dosyalarını Data Merkezine Pushlama Script Ortamı Kurulumu
 
-=> BURASI HENÜZ PROSEDÜR ALTINA ALINMADI.
+``` cd ~nos3/csvexporterpy ```
+
+```python3 run_simulation.py```
 
 # NASA Operational Simulator for Small Satellites (NOS3)
 
